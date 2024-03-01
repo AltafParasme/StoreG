@@ -1,0 +1,9 @@
+export const SET_STATE = 'comunity/SET_STATE';
+export const GET_COMMUNITY_LIST = 'GET_COMMUNITY_LIST';
+export const GET_CURRENT_COMMUNITY_DATA = 'GET_CURRENT_COMMUNITY_DATA';
+export const CREATE_POST = 'CREATE_POST';
+export const CREATE_COMMENT = 'CREATE_COMMENT';
+export const GET_COMMENT = 'GET_COMMENT';
+export const JOIN_COMMUNITY = 'JOIN_COMMUNITY';
+export const EDIT_DELETE = 'EDIT_DELETE';
+export const UPLOAD_IMAGE = 'UPLOAD_IMAGE';

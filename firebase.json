@@ -1,0 +1,7 @@
+// https://shopg-c1809.firebaseio.com/
+
+{
+    "react-native": {
+      "database_persistence_enabled": false
+    }
+}

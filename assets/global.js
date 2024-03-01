@@ -1,0 +1,33 @@
+export const Colors = {
+  orange: '#FF7400',
+  white: '#fff',
+  blue: '#00A9A6',
+  red: '#ff0000',
+  mutedBorder: '#EDEDED',
+  textMuted: '#878A90',
+  darkBlack: '#292F3A',
+  tomato: '#F3415F',
+  pink: '#ff4d6b',
+  lightOrange: '#fff6f7',
+  black: '#091427',
+  priceColor:'#989696',
+  slightOrange:'#ff8648',
+  darkOrange:'#dc4d04',
+  partialOrange:'#ff4d6b40',
+  slightPink:'#ff4d6b',
+  partialBlack:'#00000040',
+  reddishBlue:'#7e3a77',
+  darkishBlue:'#242B37',
+  slightGrey:'#979797',
+  fullOrange:'#f15824',
+  yellowStrip:'#fff7d3',
+  lightestBlue:'#B9BBBF',
+  greenishBlue: '#00a9a6',
+  sheetOrange: '#ff6500',
+  whatsappGreen: '#1ad741',
+  grey: '#f7f7f7',
+};
+
+export const Fonts = {
+  roboto: 'Roboto',
+};

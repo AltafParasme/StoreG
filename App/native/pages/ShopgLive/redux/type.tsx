@@ -1,0 +1,5 @@
+export const SET_STATE = 'shopglive/SET_STATE';
+export const LIVE_GET_OFFER_LIST = 'LIVE_GET_OFFER_LIST';
+export const LIVE_GET_OFFER_LIST_IN_BULK = 'LIVE_GET_OFFER_LIST_IN_BULK';
+export const LIVE_ANALYTICS = 'LIVE_ANALYTICS';
+export const CHANGE_FIELD = 'CHANGE_FIELD';

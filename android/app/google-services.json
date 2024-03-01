@@ -1,0 +1,80 @@
+// 20200913160840
+// https://raw.githubusercontent.com/shopg/shopg_apps/develop/android/app/google-services.json?token=AOAWW7DNAXG4TSVBKCHFXYS7M4YS6
+
+{
+  "project_info": {
+    "project_number": "485241644356",
+    "firebase_url": "https://shopg-c1809.firebaseio.com",
+    "project_id": "shopg-c1809",
+    "storage_bucket": "shopg-c1809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485241644356:android:1ff14cf7b434ab5fd7e311",
+        "android_client_info": {
+          "package_name": "com.shopgtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485241644356-4grrhu5okvdimjtgv1bc3570e6es7g73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9MLoeB2usfK99NdhR13gSsbWa7sG4AhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485241644356-4grrhu5okvdimjtgv1bc3570e6es7g73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485241644356:android:07b74ac73248ba29d7e311",
+        "android_client_info": {
+          "package_name": "com.sociofy.tech.nyota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485241644356-efe4bclu4kuhiok2i9svir0rspt0hc69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sociofy.tech.nyota",
+            "certificate_hash": "58b138e7f3c156663904519c3b999134b7eed0d7"
+          }
+        },
+        {
+          "client_id": "485241644356-4grrhu5okvdimjtgv1bc3570e6es7g73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9MLoeB2usfK99NdhR13gSsbWa7sG4AhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485241644356-4grrhu5okvdimjtgv1bc3570e6es7g73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

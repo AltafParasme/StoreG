@@ -1,0 +1,27 @@
+{
+  "name": "css-parse-no-fs",
+  "version": "2.0.0",
+  "description": "CSS parser with no fs calls",
+  "main": "lib/index.js",
+  "scripts": {
+    "prepare": "cp ./node_modules/css/lib/parse/index.js ./lib/index.js"
+  },
+  "devDependencies": {
+    "css": "^2.0.0"
+  },
+  "author": "Aaron Decker <aaron@ard.ninja>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reworkcss/css-parse.git"
+  },
+  "keywords": [
+    "css",
+    "parser",
+    "stylesheet",
+    "react-native-css",
+    "css-parser",
+    "css-parser-only",
+    "css-parser-react-native"
+  ]
+}
